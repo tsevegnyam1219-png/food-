@@ -1,0 +1,6 @@
+{
+  "name": "FOOD TRACE — Open Food Production Knowledge Platform",
+  "description": "Монгол хэл дээрх хүнсний бүтээгдэхүүн үйлдвэрлэлийн технологи, тоног төхөөрөмж, үйлдвэрүүд болон хүнсний аюулгүй байдлын нээлттэй судалгааны платформ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
